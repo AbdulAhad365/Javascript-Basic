@@ -7,3 +7,4 @@ while(rand!=6){
         console.log("-------I GOT 6------")
     }
 }
+

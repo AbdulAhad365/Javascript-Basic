@@ -29,6 +29,7 @@ console.log(ahad["age"](2004))
 console.log(ahad.age_by_this_key())
 
 
+
 console.log(ahad.age_of_ahad)
 // //TO PRINT ALL THE STATEMENT
 ahad.print_in_one_statement()
