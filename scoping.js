@@ -12,10 +12,13 @@ function A(roll_no){
             // both the f_name ^ marks are in scope of square
         console.log(`${f_name} got ${marks} marks`);
 
-        console.log(c);
     }
     function C(){
+        //this is work because var works within a function
+        // while the const and let called block elements..
         console.log(d);
+        //not work
+        // console.log(c);
         }
     C()
     // return marks
