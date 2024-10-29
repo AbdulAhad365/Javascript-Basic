@@ -20,4 +20,4 @@ function add(a,b){
 }
 
 // dont work for function stored in const,let but yes for var->undefined
-//not work for arrow function as well...
+//not work for arrow function as well.../
