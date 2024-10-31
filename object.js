@@ -1,3 +1,4 @@
+//  this is the object literal
 const mysym = Symbol("key1");
 const user = {
     name: "Abdul Ahad",
